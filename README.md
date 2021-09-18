@@ -1,4 +1,5 @@
-# Credit Card Defaulting Modeling - Yu Miao 
+# Credit Card Defaulting Modeling
+* The model is currently unavailable due to the unsubscription from AWS service.
 ## 1. Statement of Problem: 
 Banks were losing money because customers defualted their credit card payments. 
 
